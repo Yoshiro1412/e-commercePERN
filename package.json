@@ -1,0 +1,19 @@
+{
+  "name": "e-commercepern",
+  "version": "1.0.0",
+  "description": "A simple e-commerce with PERN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yoshiro1412/e-commercePERN.git"
+  },
+  "author": "josias rojas ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yoshiro1412/e-commercePERN/issues"
+  },
+  "homepage": "https://github.com/Yoshiro1412/e-commercePERN#readme"
+}
