@@ -16,7 +16,8 @@ CREATE TABLE product (
     id SERIAL PRIMARY KEY,
     product_name VARCHAR(50) NOT NULL,
     product_description VARCHAR(300),
-    price REAL NOT NULL
+    price REAL NOT NULL,
+    stock INTEGER NOT NULL
 );
 
 CREATE TABLE purchase (
