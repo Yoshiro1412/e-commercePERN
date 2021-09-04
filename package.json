@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Yoshiro1412/e-commercePERN#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "pg-promise": "^10.11.0"
   }
 }
